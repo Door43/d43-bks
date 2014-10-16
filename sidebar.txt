@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bks:home|Door43 (bks)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bks|d43-bks repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bks/archive/master.zip|d43-bks.zip]]
+
+**Recent Changes**
+{{changes>ns = bks}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bks|Ethnologue data]]
+
